@@ -1,0 +1,20 @@
+/*BOX*/
+
+.box {
+    background-color: black;
+    padding: 40px;
+    box-shadow: 0px 10px 50px rgba(128, 0, 128, 0.4);
+    border-radius: 6px;
+    margin: 10px;
+    text-align: center;
+}
+
+/*AVATAR*/
+
+.img-circle {
+    border-radius: 50%;
+}
+
+
+
+
